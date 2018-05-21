@@ -21,6 +21,17 @@ describe('linked list', () => {
 
         let anotherNewOne = 'third';
         list.append(anotherNewOne);
+    });
+
+    it('prepend()', () => {
+        let list = new LinkedList ();
+        let initialValue = 'first';
+        list.append(initialValue);
+        expect(list.head.value).toEqual(initialValue);
+
+        let newValue = 'second';
+        list.prepend(newValue);
+        expect(list.head.value).toEqual(newValue);
     })
 
 })
