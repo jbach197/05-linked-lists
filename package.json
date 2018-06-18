@@ -1,0 +1,29 @@
+{
+  "name": "05-linked-lists",
+  "version": "1.0.0",
+  "description": "![cf](http://i.imgur.com/7v5ASc8.png) Linked List Data Structure ====",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "lint": "eslint **/*.js",
+    "test": "jest --verbose --coverage",
+    "test-watch": "jest --watchAll --verbose --coverage"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbach197/05-linked-lists.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbach197/05-linked-lists/issues"
+  },
+  "homepage": "https://github.com/jbach197/05-linked-lists#readme",
+  "dependencies": {
+    "eslint": "^4.19.1",
+    "jest": "^22.4.4"
+  }
+}
