@@ -1,8 +1,8 @@
 # 02-Linked LIsts
 
 Link to Master: https://github.com/jbach197/05-linked-lists
-Link to Pull Request: 
-Link to Travis: 
+Link to Pull Request: https://github.com/jbach197/05-linked-lists/compare/master...jbach197:lab05-jen?expand=1
+Link to Travis: [![Build Status](https://travis-ci.com/jbach197/05-linked-lists.svg?branch=lab05-jen)](https://travis-ci.com/jbach197/05-linked-lists)
 
 # Installation Instructions
 1) Clone the repo
